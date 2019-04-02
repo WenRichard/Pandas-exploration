@@ -14,16 +14,20 @@
 -- [sh2](https://github.com/WenRichard/Pandas-exploration/tree/master/sh2)  
 
 主要介绍pandas的一些基本操作，也是用的**比较频繁**的操作  
-1. pandas查看数据类型等  
-2. pandas构建一个完整的dataframe  
-3. pandas取行列的3种方法    
-4. Pandas实现where filter以及逻辑语句    
-5. pandas对where条件筛选后只有一行的dataframe取其中某一列的值   
-6. pandas数据去重    
-7.pandas之group操作    
-8.pandas修改列的别名  
-9.pandas进行全局修改数据，局部修改数据  
-10.pandas合并df  
-11.pandas进行数据排序  
-12.pandas取前k个值  
-13.pandas自定义行数  
+1. pandas查看数据类型等    
+2. pandas构建一个完整的dataframe    
+3. pandas取行列的3种方法      
+4. Pandas实现where,filter以及逻辑语句      
+5. pandas对where条件筛选后只有一行的dataframe取其中某一列的值     
+6. pandas数据去重      
+7. pandas之group操作      
+8. pandas修改列的别名    
+9. pandas进行全局修改数据，局部修改数据    
+10. pandas合并df    
+11. pandas进行数据排序    
+12. pandas取前k个值    
+13. pandas自定义行数    
+
+
+**有时间就会更新pandas相关项目，有兴趣的同学可以follow一下，也欢迎Fork和Star！**  
+**留言请在Issues或者email xiezhengwen2013@163.com**
